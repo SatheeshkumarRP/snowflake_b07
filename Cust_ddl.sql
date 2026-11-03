@@ -1,0 +1,2 @@
+CREATE TABLE CUSTOMERS (ID NUMBER,
+                        NAME VARCHAR);
